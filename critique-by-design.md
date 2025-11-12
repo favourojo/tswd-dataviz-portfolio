@@ -13,7 +13,8 @@ _Include link to the original data visualization (or screenshot - make sure to c
 
 The data visualization I decided that to redisgn was from the [Visual Captalist website](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette) in a article by Bruno Venditti called **Ranked: 2025's Best Countries to Live and Work**. 
 
-![Ranked: 2025's Best Countries to Live and Work]("C:\Users\favou\Documents\YEAR2\Telling Stories with Data\Week 3\Top-Migration-Destinations-2025_WEB-1.jpg")
+(![Top-Migration-Destinations-2025_WEB-1](https://github.com/user-attachments/assets/3bdc77e2-4119-4711-ae3e-df9b4d708ad3)
+")
 
 
 ## Step two: the critique
