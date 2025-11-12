@@ -13,14 +13,21 @@ _Include link to the original data visualization (or screenshot - make sure to c
 
 The data visualization I decided that to redisgn was from the [Visual Captalist website](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette) in a article by Bruno Venditti called **Ranked: 2025's Best Countries to Live and Work**. 
 
-(![Top-Migration-Destinations-2025_WEB-1](https://github.com/user-attachments/assets/3bdc77e2-4119-4711-ae3e-df9b4d708ad3)
-")
-
+![Top-Migration-Destinations-2025_WEB-1](https://github.com/user-attachments/assets/3bdc77e2-4119-4711-ae3e-df9b4d708ad3)
+"
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
+I liked several things about this image 
+
 ## Step three: Sketch a solution
+
+<div class='tableauPlaceholder' id='viz1762909339641' style='position: relative'><noscript><a href='#'><img alt='2025&#39;s Best Countries to Live and Work in (source: Henley Opportunity Index)Scores range from 0-100 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2025sBestCountriestoLiveandWorkin&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2025sBestCountriestoLiveandWorkin&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2025sBestCountriestoLiveandWorkin&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1762909339641');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## Step four: Test the solution
 
