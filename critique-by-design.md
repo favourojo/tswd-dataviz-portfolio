@@ -4,20 +4,18 @@
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
-
 The data visualization I decided that to redisgn was from the [Visual Captalist website](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette) in a article by Bruno Venditti called **Ranked: 2025's Best Countries to Live and Work**. 
 
 ![Top-Migration-Destinations-2025_WEB-1](https://github.com/user-attachments/assets/3bdc77e2-4119-4711-ae3e-df9b4d708ad3)
 "
 
-I chose this data visualization because I was intrigued by the information that was in the website. More specifically, I was interested in what were the factors that make people want to migrate to another country. I also wanted to know which countries intrigue people the most based on the factors they listed. This applies the same to the countries people may not want to migrate and why that may be. 
+I chose this data visualization because I was intrigued by the information that was in the website. More specifically, I was interested in what were the parameters that make people want to migrate to another country. I also wanted to know which countries intrigue people the most based on the factors they listed. This applies the same to the countries people may not want to migrate and why that may be. 
 
 ## Step two: the critique
 
 I liked several things about this image when I first looked at it. I thought the visualization was useful for its intended audience of those who are looking to migrate to a new country. It showcases important factors that could intice someone to move location such as livability and economic prosperity. 
 
-The simplicity of the data visulization was also something I liked because the audience will be able to easily relate the numbers to each category. The labeling on the x and y axis were simple and easy to read with factors and the countries. 
+The simplicity of the data visulization was also something I liked because the audience will be able to easily relate the numbers to each category. The labeling on the x and y axis were simple and easy to read with factors and the countries. I believed at first that the visualization had everything necessary to make it understandable, but there is not a clear explanation of each parameters.
 
 One thing I did not like about the graph was the color scaling that was used. I was confused on the use of yellow, green, and blue as the color scheme to show the difference in scoring. It is much more confusing that intutitive. I do not believe these colors are showing how high or low a number is, which is why I will be focusing on this the most in my redesign. 
 
@@ -33,7 +31,7 @@ One thing I did not like about the graph was the color scaling that was used. I 
 </script>
 
 
-I utilized Tableau to sketch my redisgn and, like I said before, I focused on the the coloring the most. 
+I utilized Tableau to sketch my redesign and, like I said before, I focused on the the coloring the most. 
 
 ## Step four: Test the solution
 
@@ -68,6 +66,10 @@ I made significant changes here from my original sketch. I first decided to chan
 ## References
 [Henley Opportunity Index](https://www.henleyglobal.com/publications/henley-opportunity-index/methodology)
 
+[Ranked: 2025's Best Countries to Live and Work](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)
+
+
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+Copilot was utilized primarily for understanding Tableau functions. 
