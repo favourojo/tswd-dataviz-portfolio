@@ -16,8 +16,9 @@ The data visualization I decided that to redisgn was from the [Visual Captalist 
 ![Top-Migration-Destinations-2025_WEB-1](https://github.com/user-attachments/assets/3bdc77e2-4119-4711-ae3e-df9b4d708ad3)
 "
 
+I chose this data visualization because I was intrigued by the information that was in the website. More specifically, I was interested in what were the factors that make people want to migrate to another country. I also wanted to know which countries intrigue people the most based on the factors they listed. This applies the same to the countries people may not want to migrate and why that may be. 
+
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 I liked several things about this image when I first looked at it. I thought the visualization was useful for its intended audience of those who are looking to migrate to a new country. It showcases important factors that could intice someone to move location such as livability and economic prosperity. 
 
@@ -36,28 +37,12 @@ One thing I did not like about the graph was the color scaling that was used. I 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 I utilized Tableau to sketch my redisgn and, like I said before, I focused on the the coloring the most. 
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
@@ -69,13 +54,9 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-A pattern I noticed in the feedback was the people I interviewed did not like the new color palette I used because the red-green diverging palette was confusing to understand the difference in numbers. Also, the phrases for the columns were not as easy to understand as I thought when I first saw the visualization. The people I interviewed stated that they wished there was more information about the columns. Similarly, they believed there were too many columns and they could be grouped to make readability better for the audience. 
+A pattern I noticed in the feedback was the people I interviewed did not like the new color palette I used because the red-green diverging palette was confusing to understand the difference in numbers. Also, the phrases for the columns were not as easy to understand as I thought when I first saw the visualization. The people I interviewed stated that they wished there was more information about the columns. Similarly, they believed there were too many columns and they could be grouped to make readability better for the audience. The design changes that makes the most sense for my final redesign would be changing the color palette and grouping the columns. 
 
 ## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 <div class='tableauPlaceholder' id='viz1763007289807' style='position: relative'><noscript><a href='#'><img alt='2025&#39;s Best Countries to Live and Work in (source: Henley Opportunity Index)Scores range from 0-100 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;HenleyBestCountriestoLiveandWorkin&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HenleyBestCountriestoLiveandWorkin&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;HenleyBestCountriestoLiveandWorkin&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    
@@ -86,6 +67,8 @@ _Include and describe your final solution here. It's also a good idea to summari
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement); 
 </script>
+
+I made significant changes here from my original sketch. I first decided to change the color palette from the Red-Green diverging to the Green-Gold palette. After changing it, I realized this does make the graph look much better and I feel the audience will understand the numbers better. I then decided to group the values by Economic Score, Education Score, and Livability Score and keep the Total Score . I then added a caption to describe each of the groups and the factors in the groups. This will help the readers understand the factors more and also de-cluster the visualization. Though this was not apart of the feedbcak, I did had a legend showing a range of the values. I did this because I wanted the readers to understand the color palette more and see what the range in values were. 
 
 ## References
 _List any references you used here._
