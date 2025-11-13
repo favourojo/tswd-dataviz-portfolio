@@ -36,6 +36,7 @@ One thing I did not like about the graph was the color scaling that was used. I 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+I utilized Tableau to sketch my redisgn and, like I said before, I focused on the the coloring the most. 
 
 ## Step four: Test the solution
 
@@ -60,7 +61,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
+| What the first thing you noticed in the map? | The red and green colors in the highlight tables | How many columns are there in the visualization |
 |          |             |             |
 |          |             |             |
 
