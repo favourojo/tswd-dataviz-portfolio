@@ -62,8 +62,8 @@ _Don't identify or share personally identifiable information (PII) about the peo
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
 | What the first thing you noticed in the map? | The red and green colors in the highlight tables | How many columns are there in the visualization |
-|          |             |             |
-|          |             |             |
+| Is there anything you find surprising or confusing? | The red-green divering palette was a bit confusing to understand the difference in colors | I don't understnd what each of the columns means like "Earning potential", it seems like a general term |
+| What would you change about the visualiaztion? | I would change the color palette to something that is easier to understand like a Green-Gold diverging palette for instance | The several columns make the graph clustered, maybe try to group the columns by education, economic, and livability |
 
 Synthesis: 
 
