@@ -7,7 +7,7 @@
 The data visualization I decided that to redesign was from the [Visual Captalist website](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette) in a article by Bruno Venditti called **Ranked: 2025's Best Countries to Live and Work**. 
 
 ![Top-Migration-Destinations-2025_WEB-1](https://github.com/user-attachments/assets/3bdc77e2-4119-4711-ae3e-df9b4d708ad3)
-"
+
 
 I chose this data visualization because I was intrigued by the information that was in the website. More specifically, I was interested in what were the parameters that intice people to want to migrate to another country. I also wanted to know which countries intrigue people the most based on the factors they listed. This applies the same to the countries people may not want to migrate and why that may be. 
 
