@@ -4,18 +4,18 @@
 
 ## Step one: the visualization
 
-The data visualization I decided that to redisgn was from the [Visual Captalist website](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette) in a article by Bruno Venditti called **Ranked: 2025's Best Countries to Live and Work**. 
+The data visualization I decided that to redesign was from the [Visual Captalist website](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette) in a article by Bruno Venditti called **Ranked: 2025's Best Countries to Live and Work**. 
 
 ![Top-Migration-Destinations-2025_WEB-1](https://github.com/user-attachments/assets/3bdc77e2-4119-4711-ae3e-df9b4d708ad3)
 "
 
-I chose this data visualization because I was intrigued by the information that was in the website. More specifically, I was interested in what were the parameters that make people want to migrate to another country. I also wanted to know which countries intrigue people the most based on the factors they listed. This applies the same to the countries people may not want to migrate and why that may be. 
+I chose this data visualization because I was intrigued by the information that was in the website. More specifically, I was interested in what were the parameters that intice people to want to migrate to another country. I also wanted to know which countries intrigue people the most based on the factors they listed. This applies the same to the countries people may not want to migrate and why that may be. 
 
 ## Step two: the critique
 
-I liked several things about this image when I first looked at it. I thought the visualization was useful for its intended audience of those who are looking to migrate to a new country. It showcases important factors that could intice someone to move location such as livability and economic prosperity. 
+I liked several things about this image when I first looked at it. I thought the visualization was useful for its intended audience of those who are looking to migrate to a new country. It showcases important parameters that could intice someone to move locations such as livability and economic prosperity. 
 
-The simplicity of the data visulization was also something I liked because the audience will be able to easily relate the numbers to each category. The labeling on the x and y axis were simple and easy to read with factors and the countries. I believed at first that the visualization had everything necessary to make it understandable, but there is not a clear explanation of each parameters.
+The simplicity of the data visulization was also something I liked because the audience will be able to easily relate the numbers to each parameter. The labeling on the x and y axis were simple and easy to read with factors and the countries. I believed at first that the visualization had everything necessary to make it understandable, but there is not a clear explanation of each parameter.
 
 One thing I did not like about the graph was the color scaling that was used. I was confused on the use of yellow, green, and blue as the color scheme to show the difference in scoring. It is much more confusing that intutitive. I do not believe these colors are showing how high or low a number is, which is why I will be focusing on this the most in my redesign. 
 
@@ -47,7 +47,7 @@ Results:
 
 Synthesis: 
 
-A pattern I noticed in the feedback was the people I interviewed did not like the new color palette I used because the red-green diverging palette was confusing to understand the difference in numbers. Also, the phrases for the columns were not as easy to understand as I thought when I first saw the visualization. The people I interviewed stated that they wished there was more information about the columns. Similarly, they believed there were too many columns and they could be grouped to make readability better for the audience. The design changes that makes the most sense for my final redesign would be changing the color palette and grouping the columns. 
+A pattern I noticed in the feedback was the people I interviewed did not like the new color palette I used because the red-green diverging palette was confusing to understand how the numbers differed. Also, the phrases for the columns were not as easy to understand as I thought when I first saw the visualization. The people I interviewed stated that they wished there was more information about the columns. Similarly, they believed there were too many columns and they could be grouped to make readability better for the audience. The design changes that makes the most sense for my final redesign would be changing the color palette and grouping the columns. 
 
 ## Step five: build the solution
 
@@ -61,7 +61,7 @@ A pattern I noticed in the feedback was the people I interviewed did not like th
   vizElement.parentNode.insertBefore(scriptElement, vizElement); 
 </script>
 
-I made significant changes here from my original sketch. I first decided to change the color palette from the Red-Green diverging to the Green-Gold palette. After changing it, I realized this does make the graph look much better and I feel the audience will understand the numbers better. I then decided to group the values by Economic Score, Education Score, and Livability Score and keep the Total Score . I then added a caption to describe each of the groups and the factors in the groups. This will help the readers understand the factors more and also de-cluster the visualization. Though this was not apart of the feedbcak, I did had a legend showing a range of the values. I did this because I wanted the readers to understand the color palette more and see what the range in values were. 
+I made significant changes here from my original sketch. I first decided to change the color palette from the Red-Green diverging to the Green-Gold palette. After changing it, I realized this does make the graph look much better and I feel the audience will understand the numbers better. I then decided to group the values by Economic Score, Education Score, and Livability Score and keep the Total Score. I then added a caption to describe each of the groups and the parameters in the groups. This will help the readers understand the parameters more and also de-cluster the visualization. Though this was not apart of the feedbcak, I did had a legend showing a range of the values. I did this because I wanted the readers to understand the color palette more and see what the range in values were. Additionally, I did change the color of the labels on the numbers so they contrasted well with the new color palette. 
 
 ## References
 [Henley Opportunity Index](https://www.henleyglobal.com/publications/henley-opportunity-index/methodology)
