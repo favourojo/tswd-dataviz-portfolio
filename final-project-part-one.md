@@ -6,11 +6,15 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+This project will analyze healthcosts per capita in different countries in comparison to the United States of America. The United States has faced significant criticism because of the their high healthcare costs. These costs discourage people from getting treatment which then causes their diseases to linger and worsen. Emergency services that individuals need in a quick amount of time such as ambulance services and cancer treatment are one of the most costly services in the United States. MANy individuals in the US find this ridiculous, but still try to pay these costs because they feel there is no alternative.
+
+However, healthcare costs are significantly lower in other regions in the world. Individuals are stil discouraged because they beleive the US healthcare is the best they can receive, but other countries' healthcare systems are just as efficient. 
+
+
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
