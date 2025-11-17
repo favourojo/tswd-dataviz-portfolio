@@ -19,7 +19,8 @@ The United States' high healthcare costs discourages many individuals from getti
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-<iframe title="Healthcare Costs per Capita in 2025" aria-label="Column Chart" id="datawrapper-chart-zHNEN" src="https://datawrapper.dwcdn.net/zHNEN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="466" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<img width="1240" height="968" alt="zHNEN-healthcare-costs-per-capita-in-2025-" src="https://github.com/user-attachments/assets/5a0ba5e3-6d0f-4b1b-b00e-b44ff9f3760b" />
+
 
 
 # The data
