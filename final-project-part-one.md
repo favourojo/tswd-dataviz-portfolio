@@ -19,7 +19,8 @@ The United States' high healthcare costs discourages many individuals from getti
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<iframe title="Healthcare Costs per Capita in 2025" aria-label="Column Chart" id="datawrapper-chart-zHNEN" src="https://datawrapper.dwcdn.net/zHNEN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="466" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -30,7 +31,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+| How does health spending in U.S. compare to other countries? | https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#GDP%20per%20capita%20and%20health%20consumption%20spending%20per%20capita,%20U.S.%20dollars,%202023%20(current%20prices%20and%20PPP%20adjusted)%C2%A0 | This website compares healthcare costshttps://www.pgpf.org/article/how-does-the-us-healthcare-system-compare-to-other-countries/      | | |
 |      |     |             |
 |      |     |             |
 
