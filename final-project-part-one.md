@@ -28,7 +28,11 @@ The United States' high healthcare costs discourages many individuals from getti
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+I will be downloading a couple datasets that document how efficient the healthcare system is in a country. I will utilize the healthcare costs per capita data to show how afforadable each country's healthcare system is to show alternatives to the United States' healthcare system. That is the primary story the data will be telling. If feasible, individuals can migrate to different countries if they feel they are unable to afford the US healthcare system to treat the diseases that they have.
+
+The dataset that includes the life expectancy of the individuals in each country represents the general health of the citizens. A lower life expectancy rate indicates that those individuals may not be properly treating the illnesses they contract rather it be mental or phsyical. A higher life expectancy rate would indicate that individuals are able to properly take care of their illness becuase their healthcare system is affordable for them to do so. 
+
+
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
