@@ -21,6 +21,8 @@ The United States' high healthcare costs discourages many individuals from getti
 
 <img width="1240" height="968" alt="zHNEN-healthcare-costs-per-capita-in-2025-" src="https://github.com/user-attachments/assets/5a0ba5e3-6d0f-4b1b-b00e-b44ff9f3760b" />
 
+<img width="1240" height="556" alt="Life Expectancy" src="https://github.com/user-attachments/assets/eb89c319-59a1-46c1-b58e-9044c9ae45d5" />
+
 
 
 # The data
