@@ -38,7 +38,7 @@ The dataset that includes the life expectancy of the individuals in each country
 
 | Name | URL | Description |
 |------|-----|-------------|
-| How does health spending in U.S. compare to other countries? | https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#GDP%20per%20capita%20and%20health%20consumption%20spending%20per%20capita,%20U.S.%20dollars,%202023%20(current%20prices%20and%20PPP%20adjusted)%C2%A0 | This website compares healthcare costshttps://www.pgpf.org/article/how-does-the-us-healthcare-system-compare-to-other-countries/      | | |
+| Countries with the Highest Health Care Costs in 2022 | https://worldpopulationreview.com/country-rankings/health-care-costs-by-country | This data highlights the countries with the highest healthcare costs per capita in 2022 | 
 | Life expectancy | https://ourworldindata.org/grapher/life-expectancy?time=1770..1950&country=OWID_WRL~Americas~OWID_EUR~OWID_AFR&overlay=download-data |             |
 |      |     |             |
 
