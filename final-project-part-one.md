@@ -35,13 +35,13 @@ Text here...
 | Name | URL | Description |
 |------|-----|-------------|
 | How does health spending in U.S. compare to other countries? | https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#GDP%20per%20capita%20and%20health%20consumption%20spending%20per%20capita,%20U.S.%20dollars,%202023%20(current%20prices%20and%20PPP%20adjusted)%C2%A0 | This website compares healthcare costshttps://www.pgpf.org/article/how-does-the-us-healthcare-system-compare-to-other-countries/      | | |
-|      |     |             |
+| Life expectancy | https://ourworldindata.org/grapher/life-expectancy?time=1770..1950&country=OWID_WRL~Americas~OWID_EUR~OWID_AFR&overlay=download-data |             |
 |      |     |             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan on completing my final project by combing the sketches to create a comparison chart between the factors life expectancy and major causes of death with healthcare costs per capita. I am hoping to be able to show the efficiency of each country's health care system by analyzing how high or low the life expectancy is and also seeing if the diseases causing the most deaths are treatable.
 
 ## References
 _List any references you used here._
