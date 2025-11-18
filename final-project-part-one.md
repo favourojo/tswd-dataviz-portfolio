@@ -1,9 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
-# Outline
+# US Healthcare System - Is it Worth the Cost? 
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
 This project will analyze healthcare costs per capita in different countries in comparison to the United States of America. Healthcosts per capita is the healthcare costs per each individual in a certain region. The United States has faced significant criticism because of the their high healthcare costs. These costs discourage people from getting treatment which then causes their diseases to linger and worsen. Emergency services that individuals need in a quick amount of time such as ambulance services and cancer treatment are one of the most costly services in the United States. MANy individuals in the US find this ridiculous, but still try to pay these costs because they feel there is no alternative.
