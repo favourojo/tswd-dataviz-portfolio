@@ -40,13 +40,13 @@ The dataset that includes the life expectancy of the individuals in each country
 | Name | URL | Description |
 |------|-----|-------------|
 | Countries with the Highest Health Care Costs in 2022 | https://worldpopulationreview.com/country-rankings/health-care-costs-by-country | This data highlights the countries with the highest healthcare costs per capita in 2022 | 
-| Life Expectancy | https://ourworldindata.org/grapher/life-expectancy?time=1770..1950&country=OWID_WRL~Americas~OWID_EUR~OWID_AFR&overlay=download-data | Number of years the average person born in a certain year would live if they experienced the same chances of dying at each age as people did that year |
-| Cause of Deaths in Each Country | https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death | WHO estimates of the major causes of death in each country |
+| Life Expectancy | https://ourworldindata.org/grapher/life-expectancy?time=1770..1950&country=OWID_WRL~Americas~OWID_EUR~OWID_AFR&overlay=download-data | Number of years the average person born in a certain year would live if they experienced the same chances of dying at each age as people did that year, 2023 |
+| Cause of Deaths in Each Country | https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death | WHO Member States, age-standardized death rates by country, 2021 |
 | GDP Per Capita and Health Spending Per Capita | https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#GDP%20per%20capita%20and%20health%20consumption%20spending%20per%20capita,%20U.S.%20dollars,%202023%20(current%20prices%20and%20PPP%20adjusted)%C2%A0 | GDP per capita and health consumption spending per capita, U.S. dollars, 2023 (current prices and PPP adjusted) | 
 
 ## Method and medium
 
-I plan on completing my final project by combing the sketches to create a comparison chart between the factors life expectancy and major causes of death with healthcare costs per capita. I am hoping to be able to show the efficiency of each country's health care system by analyzing how high or low the life expectancy is and also seeing if the diseases causing the most deaths are treatable.
+I plan on completing my final project by combing the sketches to create a comparison chart between the factors life expectancy and major causes of death with healthcare costs per capita. I am hoping to be able to show the efficiency of each country's health care system by analyzing how high or low the life expectancy is and also seeing if the diseases causing the most deaths are treatable. I would also analyze the GDP per capita by the health spending per capita factor to see the average financial position of each individual by how much they spend on health care. 
 
 ## References
 _List any references you used here._
