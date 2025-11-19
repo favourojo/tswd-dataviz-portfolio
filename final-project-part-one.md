@@ -9,7 +9,13 @@ However, healthcare costs are significantly lower in other regions in the world.
 
 ## Project Structure
 
-The United States' high healthcare costs discourages many individuals from getting the best treatment to treat their concerning illnesses, and hope for there to be an alternative. As a reader, I want to know what the best suitable options to the United States' healthcare system and also other factors about their healthcare. For instance, I would also like to know about the life expectancy in each country and also the major causes of death to understand how the regions are tackling this issue and if they are doing it efficiently. I can do this by analyzing the life expectancy by the major causes of death in a country and then compare this with the healthcare costs per capita.
+Setup: The United State's healthcare system reigns as the most popular healthcare system. 
+
+Conflict: The United States' high healthcare costs discourages many individuals from getting the best treatment to treat their concerning illnesses.
+
+Resolution: Other countries offer more accessible healthcare services and can be more efficient than the United States 
+
+ As a reader, I want to know what the best suitable options to the United States' healthcare system and also other factors about their healthcare. For instance, I would also like to know about the life expectancy in each country and also the major causes of death to understand how the regions are tackling this issue and if they are doing it efficiently. I can do this by analyzing the life expectancy by the major causes of death in a country and then compare this with the healthcare costs per capita.
 
 
 ## Initial sketches
@@ -19,17 +25,12 @@ The United States' high healthcare costs discourages many individuals from getti
 <img width="1240" height="1698" alt="Life Expectancy" src="https://github.com/user-attachments/assets/d90924b1-14c3-4f48-8f48-10f2666a358e" />
 
 
-
-
 ## The data
 
 I will be downloading a couple datasets that document how efficient the healthcare system is in a country. I will utilize the healthcare costs per capita data to show how afforadable each country's healthcare system is to show alternatives to the United States' healthcare system. That is the primary story the data will be telling. If feasible, individuals can migrate to different countries if they feel they are unable to afford the US healthcare system to treat the diseases that they have.
 
 The dataset that includes the life expectancy of the individuals in each country represents the general health of the citizens. A lower life expectancy rate indicates that those individuals may not be properly treating the illnesses they contract rather it be mental or phsyical. A higher life expectancy rate would indicate that individuals are able to properly take care of their illness becuase their healthcare system is affordable for them to do so. 
 
-
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
