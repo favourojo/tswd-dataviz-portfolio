@@ -25,6 +25,9 @@ Resolution: Other countries offer more accessible healthcare services and can be
 <img width="1240" height="1698" alt="Life Expectancy" src="https://github.com/user-attachments/assets/d90924b1-14c3-4f48-8f48-10f2666a358e" />
 
 
+<img width="1240" height="2862" alt="Death Rates" src="https://github.com/user-attachments/assets/21602668-656b-4bc1-a017-2db49e4a4373" />
+
+
 ## The data
 
 I will be downloading a couple datasets that document how efficient the healthcare system is in a country. I will utilize the healthcare costs per capita data to show how afforadable each country's healthcare system is to show alternatives to the United States' healthcare system. That is the primary story the data will be telling. If feasible, individuals can migrate to different countries if they feel they are unable to afford the US healthcare system to treat the diseases that they have.
