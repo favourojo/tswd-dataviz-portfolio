@@ -23,7 +23,6 @@ The United States' high healthcare costs discourages many individuals from getti
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 I will be downloading a couple datasets that document how efficient the healthcare system is in a country. I will utilize the healthcare costs per capita data to show how afforadable each country's healthcare system is to show alternatives to the United States' healthcare system. That is the primary story the data will be telling. If feasible, individuals can migrate to different countries if they feel they are unable to afford the US healthcare system to treat the diseases that they have.
 
@@ -40,7 +39,6 @@ The dataset that includes the life expectancy of the individuals in each country
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
 I plan on completing my final project by combing the sketches to create a comparison chart between the factors life expectancy and major causes of death with healthcare costs per capita. I am hoping to be able to show the efficiency of each country's health care system by analyzing how high or low the life expectancy is and also seeing if the diseases causing the most deaths are treatable.
 
