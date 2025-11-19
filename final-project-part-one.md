@@ -42,10 +42,10 @@ Additionally, there is another dataset comparing the GDP per capita of different
 
 | Name | URL | Description |
 |------|-----|-------------|
-| Countries with the Highest Health Care Costs in 2022 | https://worldpopulationreview.com/country-rankings/health-care-costs-by-country | This data highlights the countries with the highest healthcare costs per capita in 2022 | 
-| Life Expectancy | https://ourworldindata.org/grapher/life-expectancy?time=1770..1950&country=OWID_WRL~Americas~OWID_EUR~OWID_AFR&overlay=download-data | Number of years the average person born in a certain year would live if they experienced the same chances of dying at each age as people did that year, 2023 |
-| Cause of Deaths in Each Country | https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death | WHO Member States, age-standardized death rates by country, 2021 |
-| GDP Per Capita and Health Spending Per Capita | https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#GDP%20per%20capita%20and%20health%20consumption%20spending%20per%20capita,%20U.S.%20dollars,%202023%20(current%20prices%20and%20PPP%20adjusted)%C2%A0 | GDP per capita and health consumption spending per capita, U.S. dollars, 2023 (current prices and PPP adjusted) | 
+| Countries with the Highest Health Care Costs in 2022 | [World Population Review - Health Care Costs by Country](https://worldpopulationreview.com/country-rankings/health-care-costs-by-country) | This data highlights the countries with the highest healthcare costs per capita in 2022 | 
+| Life Expectancy | [World in Data - Life Expectancy](https://ourworldindata.org/grapher/life-expectancy?time=1770..1950&country=OWID_WRL~Americas~OWID_EUR~OWID_AFR&overlay=download-data) | Number of years the average person born in a certain year would live if they experienced the same chances of dying at each age as people did that year, 2023 |
+| Cause of Deaths in Each Country | [WHO Death Rates](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death) | WHO Member States, age-standardized death rates by country, 2021 |
+| GDP Per Capita and Health Spending Per Capita |[Health System Tracker](https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/#GDP%20per%20capita%20and%20health%20consumption%20spending%20per%20capita,%20U.S.%20dollars,%202023%20(current%20prices%20and%20PPP%20adjusted)%C2%A0) | GDP per capita and health consumption spending per capita, U.S. dollars, 2023 (current prices and PPP adjusted) | 
 
 ## Method and medium
 
