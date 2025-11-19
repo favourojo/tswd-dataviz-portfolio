@@ -21,11 +21,11 @@ As a reader, I want to know what the best suitable options to the United States'
 
 ## Initial sketches
 
-<img width="1240" height="968" alt="zHNEN-healthcare-costs-per-capita-in-2025-" src="https://github.com/user-attachments/assets/5a0ba5e3-6d0f-4b1b-b00e-b44ff9f3760b" />
+<div style="min-height:466px" id="datawrapper-vis-PEcVH"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/PEcVH/embed.js" charset="utf-8" data-target="#datawrapper-vis-PEcVH"></script><noscript><img src="https://datawrapper.dwcdn.net/PEcVH/full.png" alt="Healthcare Costs per Capita 2022 (Column Chart)" /></noscript></div>
 
-<img width="1240" height="1698" alt="Life Expectancy" src="https://github.com/user-attachments/assets/d90924b1-14c3-4f48-8f48-10f2666a358e" />
+<div style="min-height:831px" id="datawrapper-vis-QaHm7"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/QaHm7/embed.js" charset="utf-8" data-target="#datawrapper-vis-QaHm7"></script><noscript><img src="https://datawrapper.dwcdn.net/QaHm7/full.png" alt="Average Life Expectancy Age in 2023 (Dot Plot)" /></noscript></div>
 
-<img width="1240" height="2862" alt="Death Rates" src="https://github.com/user-attachments/assets/21602668-656b-4bc1-a017-2db49e4a4373" />
+<div style="min-height:2362px" id="datawrapper-vis-1AuLD"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1AuLD/embed.js" charset="utf-8" data-target="#datawrapper-vis-1AuLD"></script><noscript><img src="https://datawrapper.dwcdn.net/1AuLD/full.png" alt="WHO Age Standardized Death Rates, 2021 (Small multiple pie chart)" /></noscript></div>
 
 <div style="min-height:215px" id="datawrapper-vis-OQFbM"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/OQFbM/embed.js" charset="utf-8" data-target="#datawrapper-vis-OQFbM"></script><noscript><img src="https://datawrapper.dwcdn.net/OQFbM/full.png" alt="Small multiple line chart" /></noscript></div>
 
