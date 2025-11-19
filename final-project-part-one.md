@@ -27,7 +27,7 @@ As a reader, I want to know what the best suitable options to the United States'
 
 <img width="1240" height="2862" alt="Death Rates" src="https://github.com/user-attachments/assets/21602668-656b-4bc1-a017-2db49e4a4373" />
 
-<img width="1240" height="462" alt="GDP HealthSpending" src="https://github.com/user-attachments/assets/c4ba52a1-f776-406e-8a38-dfe9fd3c7dba" />
+<div style="min-height:215px" id="datawrapper-vis-OQFbM"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/OQFbM/embed.js" charset="utf-8" data-target="#datawrapper-vis-OQFbM"></script><noscript><img src="https://datawrapper.dwcdn.net/OQFbM/full.png" alt="Small multiple line chart" /></noscript></div>
 
 ## The data
 
