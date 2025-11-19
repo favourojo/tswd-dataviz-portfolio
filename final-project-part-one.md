@@ -2,14 +2,12 @@
 
 
 # US Healthcare System - Is it Worth the Cost? 
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
 This project will analyze healthcare costs per capita in different countries in comparison to the United States of America. Healthcosts per capita is the healthcare costs per each individual in a certain region. The United States has faced significant criticism because of the their high healthcare costs. These costs discourage people from getting treatment which then causes their diseases to linger and worsen. Emergency services that individuals need in a quick amount of time such as ambulance services and cancer treatment are one of the most costly services in the United States. MANy individuals in the US find this ridiculous, but still try to pay these costs because they feel there is no alternative.
 
 However, healthcare costs are significantly lower in other regions in the world. Individuals are stil discouraged because they beleive the US healthcare is the best they can receive, but other countries' healthcare systems are just as efficient. I am hoping I am able to show there are suitable options compared the US healthcare system and I believe the best way to showcase this is also speak about the major causes of death by country. Life epxectancy is also another data point that analyzes how efficient a country's healthcare system is. 
 
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+# Project Structure
 
 The United States' high healthcare costs discourages many individuals from getting the best treatment to treat their concerning illnesses, and hope for there to be an alternative. As a reader, I want to know what the best suitable options to the United States' healthcare system and also other factors about their healthcare. For instance, I would also like to know about the life expectancy in each country and also the major causes of death to understand how the regions are tackling this issue and if they are doing it efficiently. I can do this by analyzing the life expectancy by the major causes of death in a country and then compare this with the healthcare costs per capita.
 
