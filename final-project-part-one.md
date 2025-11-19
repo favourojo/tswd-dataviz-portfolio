@@ -3,7 +3,9 @@
 
 # US Healthcare System - Is it Worth the Cost? 
  
-This project will analyze healthcare costs per capita in different countries in comparison to the United States of America. Healthcosts per capita is the healthcare costs per each individual in a certain region. The United States has faced significant criticism because of the their high healthcare costs. These costs discourage people from getting treatment which then causes their diseases to linger and worsen. Emergency services that individuals need in a quick amount of time such as ambulance services and cancer treatment are one of the most costly services in the United States. MANy individuals in the US find this ridiculous, but still try to pay these costs because they feel there is no alternative.
+The health of Americans is poor relative to residents of other wealthy nations. The U.S. healtcare system struggles with deficiencies in quality, fragmentation, and poor coordination of care; and it ranks poorly when compared with healthcare systems in other wealthy nations. [1](https://www.ncbi.nlm.nih.gov/books/NBK568874/#:~:text=The%20U.S.%20healthcare%20system%20struggles,is%20often%20tied%20to%20employment.) 
+
+This project will analyze healthcare costs per capita in different countries in comparison to the United States of America.  Healthcosts per capita is the healthcare costs per each individual in a certain region. The United States has faced significant criticism because of the their high healthcare costs. These costs discourage people from getting treatment which then causes their diseases to linger and worsen. Emergency services that individuals need in a quick amount of time such as ambulance services and cancer treatment are one of the most costly services in the United States. MANy individuals in the US find this ridiculous, but still try to pay these costs because they feel there is no alternative.
 
 However, healthcare costs are significantly lower in other regions in the world. Individuals are stil discouraged because they beleive the US healthcare is the best they can receive, but other countries' healthcare systems are just as efficient. I am hoping I am able to show there are suitable options compared the US healthcare system and I believe the best way to showcase this is also speak about the major causes of death by country. Life epxectancy is also another data point that analyzes how efficient a country's healthcare system is. 
 
@@ -49,7 +51,11 @@ The dataset that includes the life expectancy of the individuals in each country
 I plan on completing my final project by combing the sketches to create a comparison chart between the factors life expectancy and major causes of death with healthcare costs per capita. I am hoping to be able to show the efficiency of each country's health care system by analyzing how high or low the life expectancy is and also seeing if the diseases causing the most deaths are treatable. I would also analyze the GDP per capita by the health spending per capita factor to see the average financial position of each individual by how much they spend on health care. 
 
 ## References
-_List any references you used here._
+
+<a id="1">[1]</a> 
+Health, National Center for Chronic Disease Prevention and Health Promotion (US) Office on Smoking and. “The U.S. Health Disadvantage and Why It Matters to Business.” In Community Health and Economic Prosperity: Engaging Businesses as Stewards and Stakeholders—A Report of the Surgeon General [Internet]. US Department of Health and Human Services, 2021. https://www.ncbi.nlm.nih.gov/books/NBK568874/.
+
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
