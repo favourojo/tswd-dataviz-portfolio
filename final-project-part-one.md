@@ -34,7 +34,7 @@ Resolution: Other countries offer more accessible healthcare services and can be
 
 I will be downloading a couple datasets that document how efficient the healthcare system is in a country. I will utilize the healthcare costs per capita data to show how afforadable each country's healthcare system is to show alternatives to the United States' healthcare system. That is the primary story the data will be telling. If feasible, individuals can migrate to different countries if they feel they are unable to afford the US healthcare system to treat the diseases that they have.
 
-The dataset that includes the life expectancy of the individuals in each country represents the general health of the citizens. A lower life expectancy rate indicates that those individuals may not be properly treating the illnesses they contract rather it be mental or phsyical. A higher life expectancy rate would indicate that individuals are able to properly take care of their illness becuase their healthcare system is affordable for them to do so. 
+The dataset that includes the life expectancy of the individuals in each country represents the general health of the citizens. A lower life expectancy rate indicates that those individuals may not be properly treating the illnesses they contract rather it be mental or phsyical. A higher life expectancy rate would indicate that individuals are able to properly take care of their illness becuase their healthcare system is affordable for them to do so. The major causes of deaths data builds upon the life expectancy showing why the life expectancy is as low as it is. 
 
 
 | Name | URL | Description |
