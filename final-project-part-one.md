@@ -19,6 +19,11 @@ However, healthcare costs are significantly lower in other regions in the world.
 
 As a reader, I want to know what the best suitable options to the United States' healthcare system is and also other factors about their healthcare that can help an individual decide which ountry is the best for them. For instance, I would also like to know about the life expectancy in each country and also the major causes of death to understand how the regions are tackling this issue and if they are doing it efficiently. 
 
+This visual shows the strcture of this project, which involves an individual becoming dissatisfied with the United States' healthcare system and then conduction their own research to locate a suitable alternative in another country. 
+
+<img width="1238" height="741" alt="image" src="https://github.com/user-attachments/assets/f4104d58-ce00-4fab-8076-f89e113f1b52" />
+
+
 ## Initial sketches
 
 Each sketch will highlight a factor that relates to healthcare costs and an individual's quality of health in a country.
@@ -32,6 +37,7 @@ Each sketch will highlight a factor that relates to healthcare costs and an indi
 
 
 <div style="min-height:215px" id="datawrapper-vis-OQFbM"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/OQFbM/embed.js" charset="utf-8" data-target="#datawrapper-vis-OQFbM"></script><noscript><img src="https://datawrapper.dwcdn.net/OQFbM/full.png" alt="Small multiple line chart" /></noscript></div>
+
 
 ## The data
 
