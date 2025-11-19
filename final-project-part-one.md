@@ -21,6 +21,8 @@ As a reader, I want to know what the best suitable options to the United States'
 
 ## Initial sketches
 
+Each sketch will highlight a factor that relates to healthcare costs and an individual's quality of health in a country.
+
 <div style="min-height:400px" id="datawrapper-vis-PEcVH"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/PEcVH/embed.js" charset="utf-8" data-target="#datawrapper-vis-PEcVH"></script><noscript><img src="https://datawrapper.dwcdn.net/PEcVH/full.png" alt="Healthcare Costs per Capita 2022 (Column Chart)" /></noscript></div>
 
 <div style="min-height:765px" id="datawrapper-vis-QaHm7"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/QaHm7/embed.js" charset="utf-8" data-target="#datawrapper-vis-QaHm7"></script><noscript><img src="https://datawrapper.dwcdn.net/QaHm7/full.png" alt="Average Life Expectancy Age in 2023 (Dot Plot)" /></noscript></div>
@@ -37,7 +39,7 @@ I will be downloading a couple datasets that document how efficient the healthca
 
 The dataset that includes the life expectancy of the individuals in each country represents the general health of the citizens. A lower life expectancy rate indicates that those individuals may not be properly treating the illnesses they contract rather it be mental or phsyical. A higher life expectancy rate would indicate that individuals are able to properly take care of their illness becuase their healthcare system is affordable for them to do so. The leading causes of death adds to the life expectancy data, explanining why a country's life expectancy is lower compared to other countries. 
 
-Additionally, there is another dataset comparing the GDP per capita of different countries with the health spending per person. This data will be showing that several countries that are just as wealthy as the United States are able to offer affordable healthcare to their citizens. The addition of this daataset will add to the analysis of how similar the United States is to other countries in wealth, but fail to provide the proper healthcare to the individuals that need it the most. 
+Additionally, there will be another dataset comparing the GDP per capita of different countries with the health spending per person. This data will be showing that several countries that are just as wealthy as the United States are able to offer affordable healthcare to their citizens. The addition of this daataset will add to the analysis of how similar the United States is to other countries in wealth, but fail to provide the proper healthcare to the individuals that need it the most. 
 
 
 | Name | URL | Description |
@@ -49,7 +51,7 @@ Additionally, there is another dataset comparing the GDP per capita of different
 
 ## Method and medium
 
-I plan on completing my final project by combining the sketches to create a comparative visualization of life expectancy, major causes of death, and healthcare costs per capita. I hope to be able to demosntrate the effectiveness of each country's healthcare system by examining how high or low life expectancy is, as well as whether the diseases that cuase the most fatalities are treatable. I would highlight GDP per capita and health spending per capita side-by-side to see each individual's financial status and how much they spend on healthcare on average. 
+I plan on completing my final project by combining the sketches to create a comparative visualization of life expectancy, major causes of death, and healthcare costs per capita. I hope to be able to demosntrate the effectiveness of each country's healthcare system by examining how high or low life expectancy is, as well as whether the diseases that cause the most fatalities are treatable. I would highlight GDP per capita and health spending per capita side-by-side to see each individual's financial status and how much they spend on healthcare on average. 
 
 ## References
 
