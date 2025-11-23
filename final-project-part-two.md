@@ -10,7 +10,7 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-The target audience for this stroy is those who live in the United States and are suffering from health issues but cannot afford the current healthcare costs. I hope these people realize there are other, more affordable areas in the world where they can treat their illnesses. 
+The target audience for this stroy is those who live in the United States and are suffering from health issues but cannot afford the current healthcare costs. I hope these people realize there are other, more affordable areas in the world where they can treat their illnesses. I also am ambitiously hoping to possibly reach those in the United States who can make a change in the healthcare system by seeing that people want to find an alternate to the current US healthcare system. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -18,7 +18,7 @@ The target audience for this stroy is those who live in the United States and ar
 | Goal | Questions to Ask |
 |------|------------------|
 | Find the countries with the most affordable and efficient healthcare | Do you believe the United States has the best healthcare? If not, which country do you believe does? |
-| See which illness cause the most deaths in each country | Which illness do you believe cost the most to treat in the United States? |
+| See which illness cause the most deaths in each country | Which illnesses do you believe causes the most deaths in the United States? |
 | Find out the country with the most efficient healthcare by looking at the life expectancy rates | Do you believe the United States has the highest life expectancy rate in the world? |
 
 
