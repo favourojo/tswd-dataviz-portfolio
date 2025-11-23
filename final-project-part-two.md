@@ -17,9 +17,9 @@ The target audience for this stroy is those who live in the United States and ar
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Find the countries with the most affordable and efficient healthcare | Do you believe the United States has the best healthcare? If not, which country do you believe does?                   |
-|      |                  |
-|      |                  |
+| Find the countries with the most affordable and efficient healthcare | Do you believe the United States has the best healthcare? If not, which country do you believe does? |
+| See which illness cause the most deaths in each country | Which illness do you believe cost the most to treat in the United States? |
+| Find out the country with the most efficient healthcare by looking at the life expectancy rates | Do you believe the United States has the highest life expectancy rate in the world? |
 
 
 Text here!
