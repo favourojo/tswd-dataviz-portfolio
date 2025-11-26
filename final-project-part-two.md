@@ -3,6 +3,7 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
+https://app.shorthand.com/organisations/JSrgFWI7zn/stories/q3myfUdTWV
 
 # User research 
 
@@ -45,15 +46,14 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| The way I am displaying some visualizations could be changed | I will change my data visualizations of healthcare costs per capita from a map to a bar chart and then having a button referencing the data  |
-| The years of the datasets are not consistent |  I will still continue to make my analysis, but I will make a note that there was difficulty with finding recent datasets so some of them are outdated                                                                              |
+| The way I am displaying some visualizations could be changed | I will change my data visualizations of healthcare costs per capita from a map to a bar chart and then having a button referencing the data |
+| The years of the datasets are not consistent |  I will still continue to make my analysis, but I will make a note that there was difficulty with finding recent datasets so some of them are outdated |
+| I may be over-explaining my narrative instead of letting my visualization talk for me | I will reduce the amount of wording that is in my Shorthand and organize it differently instead of relying on the words |
 |                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
 
-Text here!
+I believe there is still a lot of improvements needed to be made on my project. 
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
