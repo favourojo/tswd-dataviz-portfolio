@@ -37,6 +37,7 @@ Text here!
 
 
 
+
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
@@ -44,8 +45,8 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
+| The way I am displaying some visualizations could be changed | I will change my data visualizations of healthcare costs per capita from a map to a bar chart and then having a button referencing the data  |
+| The years of the datasets are not consistent |  I will still continue to make my analysis, but I will make a note that there was difficulty with finding recent datasets so some of them are outdated                                                                              |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
