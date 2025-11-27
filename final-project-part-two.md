@@ -53,7 +53,7 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-I believe there is still a lot of improvements needed to be made on my project. 
+I believe there is still a lot of improvements needed to be made on my project. I do feel I slowly bulding my narrative and creating my Shorthand page as well. With the feedback, I'll be focusing more on redesigning my visualizations to increase readbility. 
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
