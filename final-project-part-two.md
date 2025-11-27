@@ -22,12 +22,8 @@ The target audience for this stroy is those who live in the United States and ar
 | Deciding if I chose the correct visualization | Do you think this visualization could have been displayed differently? |
 | Removing unncessary items from my visualizations | Is there any thing you do not like about this visualization? | 
 
-Text here!
-
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -42,7 +38,6 @@ Text here!
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -53,12 +48,8 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-I believe there is still a lot of improvements needed to be made on my project. I do feel I slowly bulding my narrative and creating my Shorthand page as well. With the feedback, I'll be focusing more on redesigning my visualizations to increase readbility. 
+I believe there is still a lot of improvements needed to be made on my project. I do feel I slowly bulding my narrative and creating my Shorthand page as well. With the feedback, I'll be focusing more on redesigning my visualizations to increase readbility. More specifically, rethinking some desgins choices I made on visulizations. I believe some visualizations may not conveying the right story I want to tell. 
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
