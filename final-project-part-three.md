@@ -35,5 +35,7 @@ I used Copilot for some help on navigating Tableau.
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-I felt this presentation was at first difficult for me and it mostly was due to naviagating the new software. This was my first time utilizing Tableau, Datawrapper, and also Shorthand, so I was learning as I was completing my project. I had trouble trying to pick the right narrative with my data, but I am thankful for the interviews I was able to do to give me better insight on what my story should be. 
+I felt this project was difficult at first for me and it mostly was due to naviagating the new software. This was my first time utilizing Tableau, Datawrapper, and also Shorthand, so I was learning as I was completing my project. I had trouble trying to pick the right narrative with my data, but I am thankful for the interviews I was able to do to give me better insight on what my story should be. 
+
+I believe I was able to create a presentation I am proud while now having a better understanding on how to use the new software. 
 
